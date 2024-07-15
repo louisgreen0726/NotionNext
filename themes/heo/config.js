@@ -14,11 +14,11 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '分享编程',
-  HEO_HERO_TITLE_2: '与思维认知',
-  HEO_HERO_TITLE_3: 'TANGLY1024.COM',
-  HEO_HERO_TITLE_4: '新版上线',
-  HEO_HERO_TITLE_5: 'NotionNext4.0 轻松定制主题',
+  HEO_HERO_TITLE_1: '分享生活',
+  HEO_HERO_TITLE_2: '与零碎知识',
+  HEO_HERO_TITLE_3: '',
+  HEO_HERO_TITLE_4: '读书消得泼茶香',
+  HEO_HERO_TITLE_5: '当时只道是寻常',
   HEO_HERO_TITLE_LINK: 'https://blog.mcy0726.top',
 
   // 英雄区显示三个置顶分类
